@@ -18,11 +18,17 @@ A small, clean, and fully client‑side e‑learning prototype. It lists courses
 
 ## Project Structure
 ├─ index.html        # Home page – course grid
+
 ├─ course.html       # Course detail – lessons & progress
+
 ├─ styles.css        # Global styles and components
+
 ├─ data.js           # In-memory course catalog (editable)
+
 ├─ storage.js        # localStorage helpers and progress logic
+
 ├─ home.js           # Home page rendering and interactions
+
 └─ course.js         # Course page rendering and interactions
 
 ## Getting Started
