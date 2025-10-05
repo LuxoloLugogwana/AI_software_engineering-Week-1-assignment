@@ -83,11 +83,8 @@ js
 ## Browser Support
  Designed for modern evergreen browsers. Uses flexbox/grid, sticky header, and CSS gradients.
 
-## Deployment
-Because the app is static, you can host it anywhere:
- **GitHub Pages**: Push to a repo and enable Pages (deploy from branch root).
- **Netlify/Vercel**: Drag‑and‑drop or connect the repository (no build step needed).
- **Any static host**: Upload these files to your server.
+## Deployment link
+ https://luxololugogwana.github.io/AI_software_engineering-Week-1-assignment/
 
 ## Notes
  No external dependencies. No framework. Everything runs in the browser.
